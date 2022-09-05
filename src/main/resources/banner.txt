@@ -1,0 +1,7 @@
+
+  _ \   _ \   \ \   /
+  __/   |  |   \ \ /
+ _|    ___/     \_/
+
+${spring.application.name:Unknown} v${spring.application.version:Unknown}
+Powered by Spring Boot ${spring-boot.version}
