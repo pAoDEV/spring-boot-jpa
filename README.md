@@ -1,4 +1,10 @@
 # This is an example API to using [Spring Data JPA](https://pages.github.com/).
+
+## mvn
+```shell
+mvn spring-boot:run -D spring.profiles.active=local
+```
+
 ## cURL
 
 ###### - Get data
